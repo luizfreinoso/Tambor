@@ -5,7 +5,7 @@ A combo indie game created in Global Game Jam 2016
 (PT-BR) O que acha de tocar ritmos de tambor e encontrar ritmos com a tribo. Jogo infinito, com sistema de criação baseado em base de conhecimentos. Utilizamos a tecnologia XML para redigir endereços, faixas musicais e o game cria em cima delas sequencias aleatórias! 
 (EN) What do you think of playing rhythms of "drums" and find rhythms with the tribe. Game infinite, with the build system based on knowledge base. We use XML technology to write addresses, tracks and game creates random sequences on them!
 
-**Global Game Jam, game link:** https://www.facebook.com/tamborgame/?notif_t=page_fan
+**Global Game Jam, game link:** https://globalgamejam.org/2016/games/tambor
 
 **Jam Site:** [Global Game Jam UCL](https://globalgamejam.org/2016/jam-sites/global-game-jam-ucl)
 
