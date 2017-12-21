@@ -39,7 +39,7 @@ Luiz Fernando Reinoso - Game Designer, Artist and Programmer.
 Geraldo Pereira Junior - Game Designer, Sound Designer and Sound Director.
 Suzane Zinger - Play Tester.
 
-Game Stills:
+**Game Stills:**
 
 ![Game title](/press/feature_game.png)
 
