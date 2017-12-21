@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<scores>
+	<score fase="1" combos="5" minpoints="500">
+			<music sequence="1">
+					<note type="vermelho">0</note>
+					<note type="vermelho">0.5</note>
+					<note type="vermelho">1</note>
+					<note type="vermelho">0.5</note>
+			</music>
+			<music sequence="2">
+					<note type="vermelho">1</note>
+					<note type="vermelho">1</note>
+					<note type="vermelho">2</note>
+					<note type="vermelho">1</note>
+					<note type="vermelho">2</note>
+					<note type="vermelho">2</note>
+					<note type="vermelho">1</note>
+					<note type="vermelho">2</note>
+			</music>
+			<music sequence="3">
+					<note type="vermelho">1</note>
+					<note type="vermelho">1</note>
+					<note type="vermelho">2</note>
+			</music>
+	</score>
+	<score fase="2" combos="4" minpoints="800">
+			<music sequence="1">
+					<note type="vermelho">1</note>
+					<note type="amarelo">1</note>
+					<note type="vermelho">2</note>
+					<note type="amarelo">3</note>
+			</music>
+			<music sequence="2">
+					<note type="vermelho">1</note>
+					<note type="vermelho">1</note>
+					<note type="amarelo">2</note>
+					<note type="vermelho">0.5</note>
+					<note type="amarelo">2</note>
+					<note type="amarelo">2</note>
+					<note type="amarelo">1</note>
+					<note type="vermelho">2</note>
+			</music>
+			<music sequence="3">
+					<note type="vermelho">1</note>
+					<note type="vermelho">1</note>
+					<note type="amarelo">2</note>
+			</music>
+			<music sequence="4">
+					<note type="vermelho">1</note>
+					<note type="vermelho">1</note>
+					<note type="amarelo">0.5</note>
+			</music>
+	</score>
+	<score fase="3" combos="5" minpoints="900">
+			<music sequence="1">
+					<note type="vermelho">1</note>
+					<note type="amarelo">1</note>
+					<note type="vermelho">2</note>
+					<note type="amarelo">1</note>
+			</music>
+			<music sequence="2">
+					<note type="vermelho">1</note>
+					<note type="vermelho">0.5</note>
+					<note type="amarelo">2</note>
+					<note type="vermelho">1</note>
+					<note type="amarelo">0.5</note>
+					<note type="amarelo">2</note>
+					<note type="amarelo">1</note>
+					<note type="vermelho">2</note>
+			</music>
+			<music sequence="3">
+					<note type="vermelho">1</note>
+					<note type="vermelho">0.5</note>
+					<note type="amarelo">2</note>
+			</music>
+			<music sequence="4">
+					<note type="vermelho">1</note>
+					<note type="vermelho">1</note>
+					<note type="amarelo">0.5</note>
+			</music>
+	</score>
+	<score fase="4" combos="5" minpoints="900">
+			<music sequence="1">
+					<note type="vermelho">1</note>
+					<note type="azul">1</note>
+					<note type="vermelho">2</note>
+					<note type="azul">1</note>
+					<note type="vermelho">2</note>
+					<note type="amarelo">1</note>
+			</music>
+			<music sequence="2">
+					<note type="vermelho">1</note>
+					<note type="azul">0.5</note>
+					<note type="amarelo">2</note>
+					<note type="vermelho">1</note>
+					<note type="azul">0.5</note>
+					<note type="azul">1</note>
+					<note type="amarelo">1</note>
+					<note type="vermelho">1</note>
+			</music>
+			<music sequence="3">
+					<note type="vermelho">1</note>
+					<note type="azul">0.5</note>
+					<note type="amarelo">1</note>
+			</music>
+			<music sequence="4">
+					<note type="vermelho">1</note>
+					<note type="azul">1</note>
+					<note type="amarelo">0.5</note>
+			</music>
+	</score>
+	<score fase="5" combos="10" minpoints="1200">
+			<music sequence="1">
+					<note type="vermelho">1</note>
+					<note type="azul">1</note>
+					<note type="vermelho">0.5</note>
+					<note type="amarelo">1</note>
+			</music>
+			<music sequence="2">
+					<note type="vermelho">1</note>
+					<note type="azul">0.5</note>
+					<note type="azul">0.5</note>
+					<note type="azul">2</note>
+					<note type="amarelo">1</note>
+					<note type="vermelho">2</note>
+			</music>
+			<music sequence="3">
+					<note type="vermelho">0.50</note>
+					<note type="azul">0.5</note>
+					<note type="amarelo">1.5</note>
+			</music>
+			<music sequence="4">
+					<note type="vermelho">1</note>
+					<note type="azul">0.9</note>
+					<note type="amarelo">0.5</note>
+			</music>
+	</score>
+	<score fase="6" combos="10" minpoints="1200">
+			<music sequence="1">
+					<note type="vermelho">1</note>
+					<note type="azul">1</note>
+					<note type="vermelho">0.5</note>
+					<note type="amarelo">1</note>
+			</music>
+			<music sequence="2">
+					<note type="vermelho">1</note>
+					<note type="azul">0.5</note>
+					<note type="verde">0.5</note>
+					<note type="azul">2</note>
+					<note type="verde">1</note>
+					<note type="vermelho">2</note>
+			</music>
+			<music sequence="3">
+					<note type="vermelho">0.5</note>
+					<note type="azul">0.5</note>
+					<note type="amarelo">1.5</note>
+			</music>
+			<music sequence="4">
+					<note type="vermelho">1</note>
+					<note type="azul">0.5</note>
+					<note type="amarelo">0.5</note>
+			</music>
+			<music sequence="5">
+					<note type="vermelho">1</note>
+					<note type="verde">0.5</note>
+					<note type="verde">0.5</note>
+					<note type="azul">2</note>
+					<note type="amarelo">1</note>
+					<note type="vermelho">2</note>
+			</music>
+			<music sequence="6">
+					<note type="vermelho">0.5</note>
+					<note type="azul">0.5</note>
+					<note type="verde">1.5</note>
+			</music>
+			<music sequence="7">
+					<note type="vermelho">1</note>
+					<note type="verde">0.9</note>
+					<note type="amarelo">0.5</note>
+			</music>
+			<music sequence="8">
+					<note type="vermelho">0</note>
+					<note type="vermelho">0.5</note>
+					<note type="vermelho">1</note>
+					<note type="vermelho">0.5</note>
+			</music>
+	</score>
+	<score fase="7" combos="10" minpoints="1200">
+			<music sequence="1">
+					<note type="vermelho">1</note>
+					<note type="azul">1</note>
+					<note type="vermelho">0.5</note>
+					<note type="amarelo">1</note>
+			</music>
+			<music sequence="2">
+					<note type="vermelho">1</note>
+					<note type="azul">0.5</note>
+					<note type="verde">0.5</note>
+					<note type="azul">2</note>
+					<note type="verde">1</note>
+					<note type="vermelho">2</note>
+			</music>
+			<music sequence="3">
+					<note type="vermelho">0.5</note>
+					<note type="azul">0.5</note>
+					<note type="amarelo">1.5</note>
+			</music>
+			<music sequence="4">
+					<note type="vermelho">1</note>
+					<note type="azul">0.5</note>
+					<note type="amarelo">0.5</note>
+			</music>
+			<music sequence="5">
+					<note type="vermelho">1</note>
+					<note type="verde">0.5</note>
+					<note type="verde">0.5</note>
+					<note type="azul">2</note>
+					<note type="amarelo">1</note>
+					<note type="vermelho">2</note>
+			</music>
+			<music sequence="6">
+					<note type="vermelho">0.5</note>
+					<note type="azul">0.5</note>
+					<note type="verde">1.5</note>
+			</music>
+			<music sequence="7">
+					<note type="vermelho">1</note>
+					<note type="verde">0.5</note>
+					<note type="amarelo">0.5</note>
+			</music>
+			<music sequence="8">
+					<note type="vermelho">0</note>
+					<note type="vermelho">0.5</note>
+					<note type="vermelho">1</note>
+					<note type="vermelho">0.5</note>
+			</music>
+			<music sequence="9">
+					<note type="vermelho">1</note>
+					<note type="azul">1</note>
+					<note type="vermelho">0.5</note>
+					<note type="amarelo">1</note>
+			</music>
+			<music sequence="10">
+					<note type="vermelho">1</note>
+					<note type="azul">0.5</note>
+					<note type="azul">0.5</note>
+					<note type="azul">2</note>
+					<note type="amarelo">1</note>
+					<note type="vermelho">2</note>
+			</music>
+			<music sequence="11">
+					<note type="vermelho">0.5</note>
+					<note type="azul">0.5</note>
+					<note type="amarelo">1.5</note>
+			</music>
+			<music sequence="12">
+					<note type="vermelho">1</note>
+					<note type="azul">0.5</note>
+					<note type="amarelo">0.5</note>
+			</music>
+	</score>
+</scores>
